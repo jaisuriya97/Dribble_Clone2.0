@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+nav{
+  font-family: 'Poppins', sans-serif !important;
+}
+#hero{
+    font-family: 'Poppins', sans-serif !important;
+}
+footer{
+    font-family: 'Poppins', sans-serif !important;
+}
+
+::-webkit-scrollbar{
+    width: 10px;
+}
+::-webkit-scrollbar-track{
+    background: black;
+}
+::-webkit-scrollbar-thumb{
+    background: #888;
+    border-radius: 5px;
+}
+::-webkit-scrollbar-thumb:hover{
+    background: #555;
+}
